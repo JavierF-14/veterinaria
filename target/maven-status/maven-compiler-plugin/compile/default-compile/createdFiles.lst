@@ -1,0 +1,9 @@
+com\example\veterinaria\entity\HistoriaClinica.class
+com\example\veterinaria\entity\Propietario$PropietarioBuilder.class
+com\example\veterinaria\entity\Veterinario.class
+com\example\veterinaria\VeterinariaApplication.class
+com\example\veterinaria\entity\Mascota.class
+com\example\veterinaria\entity\Propietario.class
+com\example\veterinaria\entity\Veterinario$VeterinarioBuilder.class
+com\example\veterinaria\entity\Mascota$MascotaBuilder.class
+com\example\veterinaria\entity\HistoriaClinica$HistoriaClinicaBuilder.class
