@@ -10,11 +10,12 @@ import java.util.List;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-
 public class Mascota {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String nombre;
     private String especie;
     private String raza;
@@ -24,12 +25,15 @@ public class Mascota {
     @ManyToOne
     @JoinColumn(name = "propietario_id")
     private Propietario propietario;
+
     @OneToOne(mappedBy = "mascota")
     private HistoriaClinica historiaClinica;
 
     @ManyToMany
-    @JoinTable(name = "mascota_veterinario",
-    joinColumns = @JoinColumn(name = "mascota_id"),
-            inverseJoinColumns = @JoinColumn(name = "veterinario_id"))
-    private List<Veterinario>veterinarios;
+    @JoinTable(
+            name = "mascota_veterinario",
+            joinColumns = @JoinColumn(name = "mascota_id"),
+            inverseJoinColumns = @JoinColumn(name = "veterinario_id")
+    )
+    private List<Veterinario> veterinarios;
 }
