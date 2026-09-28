@@ -1,4 +1,7 @@
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\Controller\HistoriaClinicaController.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\Controller\MascotaController.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\Controller\PropietarioController.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\Controller\VeterinarioController.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\entity\HistoriaClinica.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\entity\Mascota.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\entity\Propietario.java
@@ -9,11 +12,11 @@ C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veter
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\repository\PropietarioRepository.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\repository\VeterinarioRepository.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\HistoriaClinicaService.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\HistoriaClinicaServiceimp.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\MascotaService.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\MascotaServiceimp.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\PropietarioService.java
-C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\Serviceimp\HistoriaClinicaServiceimp.java
-C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\Serviceimp\MascotaServiceimp.java
-C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\Serviceimp\PropietarioServiceimp.java
-C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\Serviceimp\VeterinarioServiceimp.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\PropietarioServiceimp.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\VeterinarioService.java
+C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\service\VeterinarioServiceimp.java
 C:\Users\javie\Downloads\veterinaria\veterinaria\src\main\java\com\example\veterinaria\VeterinariaApplication.java
